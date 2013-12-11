@@ -1,0 +1,2 @@
+rvm gemset create octopress
+rvm gemset use octopress
