@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: hackz | @ttack]]></title>
+  <link href="http://ack.github.io/blog/categories/hackz/atom.xml" rel="self"/>
+  <link href="http://ack.github.io/"/>
+  <updated>2013-12-11T11:28:06-08:00</updated>
+  <id>http://ack.github.io/</id>
+  <author>
+    <name><![CDATA[Albert Choi]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[gh.io]]></title>
+    <link href="http://ack.github.io/blog/2013/12/11/ghio/"/>
+    <updated>2013-12-11T11:09:27-08:00</updated>
+    <id>http://ack.github.io/blog/2013/12/11/ghio</id>
+    <content type="html"><![CDATA[<p>what a great idea!</p>
+]]></content>
+  </entry>
+  
+</feed>
