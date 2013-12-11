@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: hackz | @ttack]]></title>
+  <title><![CDATA[Category: hackz | @tt.ack]]></title>
   <link href="http://ack.github.io/blog/categories/hackz/atom.xml" rel="self"/>
   <link href="http://ack.github.io/"/>
-  <updated>2013-12-11T11:34:09-08:00</updated>
+  <updated>2013-12-11T12:40:03-08:00</updated>
   <id>http://ack.github.io/</id>
   <author>
     <name><![CDATA[Albert Choi]]></name>
